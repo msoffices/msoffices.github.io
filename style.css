@@ -109,6 +109,9 @@ footer ul{
 #e{
     width: 70%;
 }
+ body{
+        background: linear-gradient(130deg,rgb(255, 234, 234),rgb(215, 229, 231), rgb(248, 230, 230));
+    }
 
 @media (min-width:800px) {
     footer ul{
