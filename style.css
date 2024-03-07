@@ -21,6 +21,10 @@ a{
     color: rgb(255, 255, 255);
 }
 
+form{
+    width:100%;
+}
+
 .container{
     display: flex;
     flex-direction: column;
@@ -56,8 +60,8 @@ a{
 }
 
 .h1{
-    font-weight: 500;
-    font-size: 3rem;
+    font-weight: 600;
+    font-size: 1.5rem;
 }
 
 .b{
