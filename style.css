@@ -129,7 +129,9 @@ footer ul{
     .container{
         height: 100vh;
     }
-
+    #e{
+        width: 100%;
+    }
     .con{
         border: none;
         box-shadow: 3px 8px 10px rgba(94,28,68,0.15);
