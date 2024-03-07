@@ -132,7 +132,8 @@ footer ul{
 
     .con{
         border: none;
-        box-shadow: 3px 8px 10px rgba(94,28,68,0.15);;
+        box-shadow: 3px 8px 10px rgba(94,28,68,0.15);
+        padding:20px;
     }
 
     body{
