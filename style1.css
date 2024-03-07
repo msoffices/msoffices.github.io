@@ -54,7 +54,7 @@
 
 .con h1{
     font-weight: 400;
-    font-size: 25px;
+    font-size: 1.5rem;
     margin-top: 20px;
     position: relative;
 }
@@ -128,8 +128,21 @@
         margin: 10px auto;
         min-height: auto;
         width: 95%;
-        border: 1px solid black;
+        border: none;
     }
+
+    .log{
+    width: 100%;
+   }
+
+    #e,#password{
+    margin-top: 10px;
+    border: none;
+    border-bottom: solid rgb(0, 0, 0) 1px;
+    height: 35px;
+    width: 80%;
+    font-size: large;
+}
 
 
 }
